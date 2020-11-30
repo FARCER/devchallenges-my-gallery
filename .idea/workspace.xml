@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c2d55f2-9ffb-4abb-85fe-3688fedddf47" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1l0thCyMJIBtshdk1eFZCZnZg9i" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c2d55f2-9ffb-4abb-85fe-3688fedddf47" name="Default Changelist" comment="" />
+      <created>1606745953241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606745953241</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="718" y="216" key="#CSS" timestamp="1606746050144">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="216" key="#CSS/0.0.1920.1040@0.0.1920.1040" timestamp="1606746050144" />
+    <state x="728" y="350" key="#com.intellij.tools.ToolEditorDialog" timestamp="1606746371824">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="728" y="350" key="#com.intellij.tools.ToolEditorDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606746371824" />
+    <state x="629" y="298" width="662" height="678" key="EditFileWatcherDialog" timestamp="1606746522262">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="629" y="298" width="662" height="678" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606746522262" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1606750285488">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606750285488" />
+    <state x="832" y="364" key="cloudConfig.SelfSettingsDialog" timestamp="1606746058497">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="832" y="364" key="cloudConfig.SelfSettingsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606746058497" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1606746496458">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606746496458" />
+  </component>
+</project>

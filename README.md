@@ -1,4 +1,4 @@
-<h1 align="center">DevChallenges - Recipe page</h1>
+<h1 align="center">DevChallenges - My Gallery</h1>
 
 <div align="center">
    Solution for a challenge from <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -6,15 +6,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://devchallenges-recipe-page.vercel.app/">
+    <a href="https://devchallenges-my-gallery.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/FARCER/devchallenges-Recipe-page">
+    <a href="https://github.com/FARCER/devchallenges-my-gallery">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht">
+    <a href="https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I">
       Challenge
     </a>
   </h3>
